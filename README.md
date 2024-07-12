@@ -1,3 +1,2 @@
 # escape-room-point-and-click-game
-10th grade project made in coding class, using the very limited features of visual basic 6.0
-// open the .exe file to play
+10th grade project made in coding class, using the very limited features of visual basic 6.0 <br/>open the .exe file to play
